@@ -42,13 +42,13 @@ public class ManutencaoCorrida extends javax.swing.JDialog {
 
         jLabel2.setText("Data:");
 
-        jButton1.setText("jButton1");
+        jButton1.setText("Adicionar");
 
-        jButton2.setText("jButton2");
+        jButton2.setText("Alterar");
 
-        jButton3.setText("jButton3");
+        jButton3.setText("Excluir");
 
-        jButton4.setText("jButton4");
+        jButton4.setText("Cancelar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -63,7 +63,7 @@ public class ManutencaoCorrida extends javax.swing.JDialog {
                         .addComponent(jButton2)
                         .addGap(28, 28, 28)
                         .addComponent(jButton3)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 26, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 38, Short.MAX_VALUE)
                         .addComponent(jButton4))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
